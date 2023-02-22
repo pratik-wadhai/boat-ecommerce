@@ -1,4 +1,6 @@
 import { Html, Head, Main, NextScript } from 'next/document'
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 export default function Document() {
   return (
